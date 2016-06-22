@@ -1,0 +1,23 @@
+{
+  "name": "hello-travis",
+  "version": "0.0.1",
+  "description": "ci, gulp ...",
+  "main": "hello-travis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KjellVerba/hello-travis.git"
+  },
+  "keywords": [
+    "ci",
+    "gulp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KjellVerba/hello-travis/issues"
+  },
+  "homepage": "https://github.com/KjellVerba/hello-travis#readme"
+}
