@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KjellVerba/hello-travis/issues"
   },
-  "homepage": "https://github.com/KjellVerba/hello-travis#readme"
+  "homepage": "https://github.com/KjellVerba/hello-travis#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
